@@ -1,1 +1,1 @@
-#code for ping-pong-game
+# code for ping-pong game
